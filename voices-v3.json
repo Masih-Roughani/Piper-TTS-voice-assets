@@ -1,0 +1,1165 @@
+{
+  "version": 3,
+  "languages": {
+    "fa": {
+      "label": "فارسی",
+      "voices": [
+        "mana",
+        "ganji",
+        "gooya80"
+      ],
+      "defaultVoice": "mana"
+    },
+    "en": {
+      "label": "English",
+      "voices": [
+        "en-ryan-high"
+      ],
+      "defaultVoice": "en-ryan-high"
+    },
+    "de": {
+      "label": "Deutsch",
+      "voices": [
+        "de-thorsten-high"
+      ],
+      "defaultVoice": "de-thorsten-high"
+    },
+    "ar": {
+      "label": "العربية",
+      "voices": [
+        "ar-jo-kareem-medium"
+      ],
+      "defaultVoice": "ar-jo-kareem-medium"
+    },
+    "bg": {
+      "label": "български",
+      "voices": [
+        "bg-bg-dimitar-medium"
+      ],
+      "defaultVoice": "bg-bg-dimitar-medium"
+    },
+    "bn": {
+      "label": "বাংলা",
+      "voices": [
+        "bn-bd-google-medium"
+      ],
+      "defaultVoice": "bn-bd-google-medium"
+    },
+    "ca": {
+      "label": "Català",
+      "voices": [
+        "ca-es-upc-ona-medium"
+      ],
+      "defaultVoice": "ca-es-upc-ona-medium"
+    },
+    "cs": {
+      "label": "Čeština",
+      "voices": [
+        "cs-cz-jirka-medium"
+      ],
+      "defaultVoice": "cs-cz-jirka-medium"
+    },
+    "cy": {
+      "label": "Cymraeg",
+      "voices": [
+        "cy-gb-gwryw-gogleddol-medium"
+      ],
+      "defaultVoice": "cy-gb-gwryw-gogleddol-medium"
+    },
+    "da": {
+      "label": "Dansk",
+      "voices": [
+        "da-dk-talesyntese-medium"
+      ],
+      "defaultVoice": "da-dk-talesyntese-medium"
+    },
+    "el": {
+      "label": "Ελληνικά",
+      "voices": [
+        "el-gr-joy-medium"
+      ],
+      "defaultVoice": "el-gr-joy-medium"
+    },
+    "es": {
+      "label": "Español",
+      "voices": [
+        "es-es-davefx-medium"
+      ],
+      "defaultVoice": "es-es-davefx-medium"
+    },
+    "et": {
+      "label": "eesti",
+      "voices": [
+        "et-ee-news-medium"
+      ],
+      "defaultVoice": "et-ee-news-medium"
+    },
+    "eu": {
+      "label": "Euskara",
+      "voices": [
+        "eu-es-antton-medium"
+      ],
+      "defaultVoice": "eu-es-antton-medium"
+    },
+    "fi": {
+      "label": "Suomi",
+      "voices": [
+        "fi-fi-harri-medium"
+      ],
+      "defaultVoice": "fi-fi-harri-medium"
+    },
+    "fr": {
+      "label": "Français",
+      "voices": [
+        "fr-fr-siwis-medium"
+      ],
+      "defaultVoice": "fr-fr-siwis-medium"
+    },
+    "hi": {
+      "label": "हिन्दी",
+      "voices": [
+        "hi-in-priyamvada-medium"
+      ],
+      "defaultVoice": "hi-in-priyamvada-medium"
+    },
+    "hu": {
+      "label": "Magyar",
+      "voices": [
+        "hu-hu-anna-medium"
+      ],
+      "defaultVoice": "hu-hu-anna-medium"
+    },
+    "hy": {
+      "label": "հայերեն",
+      "voices": [
+        "hy-am-gor-medium"
+      ],
+      "defaultVoice": "hy-am-gor-medium"
+    },
+    "id": {
+      "label": "Bahasa Indonesia",
+      "voices": [
+        "id-id-news-tts-medium"
+      ],
+      "defaultVoice": "id-id-news-tts-medium"
+    },
+    "is": {
+      "label": "íslenska",
+      "voices": [
+        "is-is-bui-medium"
+      ],
+      "defaultVoice": "is-is-bui-medium"
+    },
+    "it": {
+      "label": "Italiano",
+      "voices": [
+        "it-it-paola-medium"
+      ],
+      "defaultVoice": "it-it-paola-medium"
+    },
+    "ka": {
+      "label": "ქართული ენა",
+      "voices": [
+        "ka-ge-natia-medium"
+      ],
+      "defaultVoice": "ka-ge-natia-medium"
+    },
+    "kk": {
+      "label": "қазақша",
+      "voices": [
+        "kk-kz-iseke-x-low"
+      ],
+      "defaultVoice": "kk-kz-iseke-x-low"
+    },
+    "ko": {
+      "label": "한국어",
+      "voices": [
+        "ko-kr-kss-medium"
+      ],
+      "defaultVoice": "ko-kr-kss-medium"
+    },
+    "ku": {
+      "label": "Kurmancî",
+      "voices": [
+        "ku-tr-berfin-renas-medium"
+      ],
+      "defaultVoice": "ku-tr-berfin-renas-medium"
+    },
+    "lb": {
+      "label": "Lëtzebuergesch",
+      "voices": [
+        "lb-lu-marylux-medium"
+      ],
+      "defaultVoice": "lb-lu-marylux-medium"
+    },
+    "lv": {
+      "label": "Latviešu",
+      "voices": [
+        "lv-lv-aivars-medium"
+      ],
+      "defaultVoice": "lv-lv-aivars-medium"
+    },
+    "ml": {
+      "label": "മലയാളം",
+      "voices": [
+        "ml-in-arjun-medium"
+      ],
+      "defaultVoice": "ml-in-arjun-medium"
+    },
+    "mr": {
+      "label": "मराठी, 𑘦𑘨𑘰𑘙𑘲",
+      "voices": [
+        "mr-in-google-medium"
+      ],
+      "defaultVoice": "mr-in-google-medium"
+    },
+    "ne": {
+      "label": "नेपाली",
+      "voices": [
+        "ne-np-chitwan-medium"
+      ],
+      "defaultVoice": "ne-np-chitwan-medium"
+    },
+    "nl": {
+      "label": "Nederlands",
+      "voices": [
+        "nl-nl-ronnie-medium"
+      ],
+      "defaultVoice": "nl-nl-ronnie-medium"
+    },
+    "no": {
+      "label": "Norsk",
+      "voices": [
+        "no-no-talesyntese-medium"
+      ],
+      "defaultVoice": "no-no-talesyntese-medium"
+    },
+    "pl": {
+      "label": "Polski",
+      "voices": [
+        "pl-pl-darkman-medium"
+      ],
+      "defaultVoice": "pl-pl-darkman-medium"
+    },
+    "pt": {
+      "label": "Português",
+      "voices": [
+        "pt-br-faber-medium"
+      ],
+      "defaultVoice": "pt-br-faber-medium"
+    },
+    "ro": {
+      "label": "Română",
+      "voices": [
+        "ro-ro-mihai-medium"
+      ],
+      "defaultVoice": "ro-ro-mihai-medium"
+    },
+    "ru": {
+      "label": "Русский",
+      "voices": [
+        "ru-ru-irina-medium"
+      ],
+      "defaultVoice": "ru-ru-irina-medium"
+    },
+    "sk": {
+      "label": "Slovenčina",
+      "voices": [
+        "sk-sk-lili-medium"
+      ],
+      "defaultVoice": "sk-sk-lili-medium"
+    },
+    "sl": {
+      "label": "Slovenščina",
+      "voices": [
+        "sl-si-artur-medium"
+      ],
+      "defaultVoice": "sl-si-artur-medium"
+    },
+    "sq": {
+      "label": "shqip",
+      "voices": [
+        "sq-al-edon-medium"
+      ],
+      "defaultVoice": "sq-al-edon-medium"
+    },
+    "sr": {
+      "label": "srpski",
+      "voices": [
+        "sr-rs-serbski-institut-medium"
+      ],
+      "defaultVoice": "sr-rs-serbski-institut-medium"
+    },
+    "sv": {
+      "label": "Svenska",
+      "voices": [
+        "sv-se-alma-medium"
+      ],
+      "defaultVoice": "sv-se-alma-medium"
+    },
+    "sw": {
+      "label": "Kiswahili",
+      "voices": [
+        "sw-cd-lanfrica-medium"
+      ],
+      "defaultVoice": "sw-cd-lanfrica-medium"
+    },
+    "te": {
+      "label": "తెలుగు",
+      "voices": [
+        "te-in-maya-medium"
+      ],
+      "defaultVoice": "te-in-maya-medium"
+    },
+    "tr": {
+      "label": "Türkçe",
+      "voices": [
+        "tr-tr-dfki-medium"
+      ],
+      "defaultVoice": "tr-tr-dfki-medium"
+    },
+    "uk": {
+      "label": "украї́нська мо́ва",
+      "voices": [
+        "uk-ua-lada-x-low"
+      ],
+      "defaultVoice": "uk-ua-lada-x-low"
+    },
+    "ur": {
+      "label": "اردو",
+      "voices": [
+        "ur-pk-aegis-female-medium"
+      ],
+      "defaultVoice": "ur-pk-aegis-female-medium"
+    },
+    "vi": {
+      "label": "Tiếng Việt",
+      "voices": [
+        "vi-vn-vais1000-medium"
+      ],
+      "defaultVoice": "vi-vn-vais1000-medium"
+    },
+    "zh": {
+      "label": "简体中文",
+      "voices": [
+        "zh-cn-huayan-medium"
+      ],
+      "defaultVoice": "zh-cn-huayan-medium"
+    }
+  },
+  "voices": {
+    "ganji": {
+      "label": "Ganji",
+      "language": "fa",
+      "locale": "fa-IR",
+      "bytes": 63516050,
+      "sha256": "6a98504bb77dc2fd3a863c977d37e67a6a525fdf661917385d569a3ff78e6cae",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/fa_IR-ganji-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/1162a9173d0ce503555aed757976b7a9912eae4c/fa/fa_IR/ganji/medium/fa_IR-ganji-medium.onnx",
+        "https://huggingface.co/rhasspy/piper-voices/resolve/main/fa/fa_IR/ganji/medium/fa_IR-ganji-medium.onnx"
+      ],
+      "config": "ganji.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/1162a9173d0ce503555aed757976b7a9912eae4c/fa/fa_IR/ganji/medium/fa_IR-ganji-medium.onnx.json"
+    },
+    "mana": {
+      "label": "Mana",
+      "language": "fa",
+      "locale": "fa-IR",
+      "bytes": 63531379,
+      "sha256": "e390c0e74ba71fd97c49ba662ee0c6e1724b462ba2d4561698af4f564840f126",
+      "bundledModel": "mana.onnx",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/fa_IR-mana-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/MahtaFetrat/Mana-Persian-Piper/resolve/ad9dd8518bedf517bd7cbc9f63b8e5c844bf5bc0/fa_IR-mana-medium.onnx",
+        "https://huggingface.co/MahtaFetrat/Mana-Persian-Piper/resolve/main/fa_IR-mana-medium.onnx"
+      ],
+      "modelCard": "https://huggingface.co/MahtaFetrat/Mana-Persian-Piper/resolve/ad9dd8518bedf517bd7cbc9f63b8e5c844bf5bc0/README.md",
+      "config": "mana.json",
+      "sourceConfig": "https://huggingface.co/MahtaFetrat/Mana-Persian-Piper/resolve/ad9dd8518bedf517bd7cbc9f63b8e5c844bf5bc0/fa_IR-mana-medium.onnx.json",
+      "denoise": true
+    },
+    "gooya80": {
+      "label": "Gooya 80%",
+      "language": "fa",
+      "locale": "fa-IR",
+      "bytes": 63516051,
+      "sha256": "3f85f450fc21415e1eddaa0aa894c667e76d14aa9a342c4e77f1f9009b96f170",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v1/gooya-rizehpizeh-v2.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/Reza2kn/Gooya-RizehPizeh-v2/resolve/4470132d31f350e162622a2bdf259bd380af465b/gooya-rizehpizeh-v2.onnx",
+        "https://huggingface.co/Reza2kn/Gooya-RizehPizeh-v2/resolve/main/gooya-rizehpizeh-v2.onnx"
+      ],
+      "config": "gooya80.json",
+      "sourceConfig": "https://huggingface.co/Reza2kn/Gooya-RizehPizeh-v2/resolve/4470132d31f350e162622a2bdf259bd380af465b/gooya-rizehpizeh-v2.onnx.json",
+      "negara": true,
+      "lengthScale": 1.25
+    },
+    "en-ryan-high": {
+      "label": "Ryan High",
+      "language": "en",
+      "locale": "en-US",
+      "bytes": 120786792,
+      "sha256": "b3990d7606e183ec8dbfba70a4607074f162de1a0c412e0180d1ff60bb154eca",
+      "bundledModel": "en-ryan-high.onnx",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v1/en_US-ryan-high.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/1162a9173d0ce503555aed757976b7a9912eae4c/en/en_US/ryan/high/en_US-ryan-high.onnx",
+        "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high/en_US-ryan-high.onnx"
+      ],
+      "config": "en-ryan-high.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/1162a9173d0ce503555aed757976b7a9912eae4c/en/en_US/ryan/high/en_US-ryan-high.onnx.json"
+    },
+    "de-thorsten-high": {
+      "label": "Thorsten High · Deutsch",
+      "language": "de",
+      "locale": "de-DE",
+      "bytes": 113895201,
+      "sha256": "9df1c43c61149ef9b39e618e2b861fbe41e1fcea9390b2dac62e8761573ea4f1",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v2/de_DE-thorsten-high.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/375a0fe641dea077c2a47b4e9a056d6da521eed3/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx",
+        "https://huggingface.co/rhasspy/piper-voices/resolve/main/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx"
+      ],
+      "config": "de-de-thorsten-high.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/375a0fe641dea077c2a47b4e9a056d6da521eed3/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx.json"
+    },
+    "ar-jo-kareem-medium": {
+      "label": "kareem",
+      "language": "ar",
+      "locale": "ar-JO",
+      "languageLabel": "العربية",
+      "bytes": 63201294,
+      "sha256": "9e95cab07b679da603bba17c4dec7ab3111320571964ee95c0379603c086491e",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ar_JO-kareem-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ar/ar_JO/kareem/medium/ar_JO-kareem-medium.onnx"
+      ],
+      "config": "ar-jo-kareem-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ar/ar_JO/kareem/medium/ar_JO-kareem-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ar_JO-kareem-medium.MODEL_CARD",
+      "espeak": "ar"
+    },
+    "bg-bg-dimitar-medium": {
+      "label": "dimitar",
+      "language": "bg",
+      "locale": "bg-BG",
+      "languageLabel": "български",
+      "bytes": 63221984,
+      "sha256": "4972fe764468e8501416407ad81662de94cc6c9cdc680fcf807daef04e319f13",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/bg_BG-dimitar-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/bg/bg_BG/dimitar/medium/bg_BG-dimitar-medium.onnx"
+      ],
+      "config": "bg-bg-dimitar-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/bg/bg_BG/dimitar/medium/bg_BG-dimitar-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/bg_BG-dimitar-medium.MODEL_CARD",
+      "espeak": "bg"
+    },
+    "bn-bd-google-medium": {
+      "label": "google",
+      "language": "bn",
+      "locale": "bn-BD",
+      "languageLabel": "বাংলা",
+      "bytes": 76782515,
+      "sha256": "f2e7518ed5534a755024a48c71b80bf617efaf12570bbdf3ce255a9526a8afd3",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/bn_BD-google-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/bn/bn_BD/google/medium/bn_BD-google-medium.onnx"
+      ],
+      "config": "bn-bd-google-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/bn/bn_BD/google/medium/bn_BD-google-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/bn_BD-google-medium.MODEL_CARD",
+      "espeak": "bn"
+    },
+    "ca-es-upc-ona-medium": {
+      "label": "upc ona",
+      "language": "ca",
+      "locale": "ca-ES",
+      "languageLabel": "Català",
+      "bytes": 63201294,
+      "sha256": "fdb652db8c11a4475527346cf3241cb064d1ba393cf370f3f2ec09a872d118fd",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ca_ES-upc_ona-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ca/ca_ES/upc_ona/medium/ca_ES-upc_ona-medium.onnx"
+      ],
+      "config": "ca-es-upc-ona-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ca/ca_ES/upc_ona/medium/ca_ES-upc_ona-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ca_ES-upc_ona-medium.MODEL_CARD",
+      "espeak": "ca"
+    },
+    "cs-cz-jirka-medium": {
+      "label": "jirka",
+      "language": "cs",
+      "locale": "cs-CZ",
+      "languageLabel": "Čeština",
+      "bytes": 63201294,
+      "sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/cs_CZ-jirka-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/cs/cs_CZ/jirka/medium/cs_CZ-jirka-medium.onnx"
+      ],
+      "config": "cs-cz-jirka-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/cs/cs_CZ/jirka/medium/cs_CZ-jirka-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/cs_CZ-jirka-medium.MODEL_CARD",
+      "espeak": "cs"
+    },
+    "cy-gb-gwryw-gogleddol-medium": {
+      "label": "gwryw gogleddol",
+      "language": "cy",
+      "locale": "cy-GB",
+      "languageLabel": "Cymraeg",
+      "bytes": 63511038,
+      "sha256": "a7d87df65e2c67ddee49829906ec51982fe123d418472731dab696f4dcefe8c6",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/cy_GB-gwryw_gogleddol-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/cy/cy_GB/gwryw_gogleddol/medium/cy_GB-gwryw_gogleddol-medium.onnx"
+      ],
+      "config": "cy-gb-gwryw-gogleddol-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/cy/cy_GB/gwryw_gogleddol/medium/cy_GB-gwryw_gogleddol-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/cy_GB-gwryw_gogleddol-medium.MODEL_CARD",
+      "espeak": "cy"
+    },
+    "da-dk-talesyntese-medium": {
+      "label": "talesyntese",
+      "language": "da",
+      "locale": "da-DK",
+      "languageLabel": "Dansk",
+      "bytes": 63201294,
+      "sha256": "b9271efd25f7b8494bbd28d48dd675c8c119daa284f3ee488008935f515f1241",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/da_DK-talesyntese-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/da/da_DK/talesyntese/medium/da_DK-talesyntese-medium.onnx"
+      ],
+      "config": "da-dk-talesyntese-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/da/da_DK/talesyntese/medium/da_DK-talesyntese-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/da_DK-talesyntese-medium.MODEL_CARD",
+      "espeak": "da"
+    },
+    "el-gr-joy-medium": {
+      "label": "joy",
+      "language": "el",
+      "locale": "el-GR",
+      "languageLabel": "Ελληνικά",
+      "bytes": 63516050,
+      "sha256": "31b1d51dc72dd43a5429b67798e27599f8cdcfce8a80265bc6f50d932bf144bc",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/el_GR-joy-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/el/el_GR/joy/medium/el_GR-joy-medium.onnx"
+      ],
+      "config": "el-gr-joy-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/el/el_GR/joy/medium/el_GR-joy-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/el_GR-joy-medium.MODEL_CARD",
+      "espeak": "el"
+    },
+    "es-es-davefx-medium": {
+      "label": "davefx",
+      "language": "es",
+      "locale": "es-ES",
+      "languageLabel": "Español",
+      "bytes": 63201294,
+      "sha256": "6658b03b1a6c316ee4c265a9896abc1393353c2d9e1bca7d66c2c442e222a917",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/es_ES-davefx-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/es/es_ES/davefx/medium/es_ES-davefx-medium.onnx"
+      ],
+      "config": "es-es-davefx-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/es/es_ES/davefx/medium/es_ES-davefx-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/es_ES-davefx-medium.MODEL_CARD",
+      "espeak": "es"
+    },
+    "et-ee-news-medium": {
+      "label": "news",
+      "language": "et",
+      "locale": "et-EE",
+      "languageLabel": "eesti",
+      "bytes": 76757937,
+      "sha256": "ddd679e874e0f6ec4e8f76c99cef77d490341b001aa6e839415028be5d04f9bf",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/et_EE-news-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/et/et_EE/news/medium/et_EE-news-medium.onnx"
+      ],
+      "config": "et-ee-news-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/et/et_EE/news/medium/et_EE-news-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/et_EE-news-medium.MODEL_CARD",
+      "espeak": "et"
+    },
+    "eu-es-antton-medium": {
+      "label": "antton",
+      "language": "eu",
+      "locale": "eu-ES",
+      "languageLabel": "Euskara",
+      "bytes": 63531379,
+      "sha256": "dc8305fda17b22e922f011cd7450c50c76b2f2630c2cfa5c35564326daef1454",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/eu_ES-antton-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/eu/eu_ES/antton/medium/eu_ES-antton-medium.onnx"
+      ],
+      "config": "eu-es-antton-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/eu/eu_ES/antton/medium/eu_ES-antton-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/eu_ES-antton-medium.MODEL_CARD",
+      "espeak": "eu"
+    },
+    "fi-fi-harri-medium": {
+      "label": "harri",
+      "language": "fi",
+      "locale": "fi-FI",
+      "languageLabel": "Suomi",
+      "bytes": 63201294,
+      "sha256": "a44167faa34caed940e4fcad139fcc35922266b2593bcebe77701774c0fb2389",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/fi_FI-harri-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/fi/fi_FI/harri/medium/fi_FI-harri-medium.onnx"
+      ],
+      "config": "fi-fi-harri-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/fi/fi_FI/harri/medium/fi_FI-harri-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/fi_FI-harri-medium.MODEL_CARD",
+      "espeak": "fi"
+    },
+    "fr-fr-siwis-medium": {
+      "label": "siwis",
+      "language": "fr",
+      "locale": "fr-FR",
+      "languageLabel": "Français",
+      "bytes": 63201294,
+      "sha256": "641d1ab097da2b81128c076810edb052b385decc8be3381814802a64a73baf99",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/fr_FR-siwis-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/fr/fr_FR/siwis/medium/fr_FR-siwis-medium.onnx"
+      ],
+      "config": "fr-fr-siwis-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/fr/fr_FR/siwis/medium/fr_FR-siwis-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/fr_FR-siwis-medium.MODEL_CARD",
+      "espeak": "fr"
+    },
+    "hi-in-priyamvada-medium": {
+      "label": "priyamvada",
+      "language": "hi",
+      "locale": "hi-IN",
+      "languageLabel": "हिन्दी",
+      "bytes": 63516050,
+      "sha256": "aa63bcf2cd493b55a450f280e23cf77f03afc9af7015e6e5acd43b652f166c88",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/hi_IN-priyamvada-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hi/hi_IN/priyamvada/medium/hi_IN-priyamvada-medium.onnx"
+      ],
+      "config": "hi-in-priyamvada-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hi/hi_IN/priyamvada/medium/hi_IN-priyamvada-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/hi_IN-priyamvada-medium.MODEL_CARD",
+      "espeak": "hi"
+    },
+    "hu-hu-anna-medium": {
+      "label": "anna",
+      "language": "hu",
+      "locale": "hu-HU",
+      "languageLabel": "Magyar",
+      "bytes": 63201294,
+      "sha256": "968c0c3a66cb667811242cc88653bff9247395fc7a0517fbeef7d8c08cdae62a",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/hu_HU-anna-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hu/hu_HU/anna/medium/hu_HU-anna-medium.onnx"
+      ],
+      "config": "hu-hu-anna-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hu/hu_HU/anna/medium/hu_HU-anna-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/hu_HU-anna-medium.MODEL_CARD",
+      "espeak": "hu"
+    },
+    "hy-am-gor-medium": {
+      "label": "gor",
+      "language": "hy",
+      "locale": "hy-AM",
+      "languageLabel": "հայերեն",
+      "bytes": 63511038,
+      "sha256": "1c91fc33fecbbfc6b7921f9d11fd7487a859053a3a1987147f5c361155b89e7c",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/hy_AM-gor-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hy/hy_AM/gor/medium/hy_AM-gor-medium.onnx"
+      ],
+      "config": "hy-am-gor-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hy/hy_AM/gor/medium/hy_AM-gor-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/hy_AM-gor-medium.MODEL_CARD",
+      "espeak": "hy"
+    },
+    "id-id-news-tts-medium": {
+      "label": "news tts",
+      "language": "id",
+      "locale": "id-ID",
+      "languageLabel": "Bahasa Indonesia",
+      "bytes": 62950044,
+      "sha256": "ed8f02aa593f7af6b19acbdb8142e0da0dd72f46194eb33d38e0eb10a52597e8",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/id_ID-news_tts-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/id/id_ID/news_tts/medium/id_ID-news_tts-medium.onnx"
+      ],
+      "config": "id-id-news-tts-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/id/id_ID/news_tts/medium/id_ID-news_tts-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/id_ID-news_tts-medium.MODEL_CARD",
+      "espeak": "id"
+    },
+    "is-is-bui-medium": {
+      "label": "bui",
+      "language": "is",
+      "locale": "is-IS",
+      "languageLabel": "íslenska",
+      "bytes": 76495465,
+      "sha256": "3a645b2d2850e4098f01f3765cece931836c03741e01a5cc514d09d39d37c05c",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/is_IS-bui-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/is/is_IS/bui/medium/is_IS-bui-medium.onnx"
+      ],
+      "config": "is-is-bui-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/is/is_IS/bui/medium/is_IS-bui-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/is_IS-bui-medium.MODEL_CARD",
+      "espeak": "is"
+    },
+    "it-it-paola-medium": {
+      "label": "paola",
+      "language": "it",
+      "locale": "it-IT",
+      "languageLabel": "Italiano",
+      "bytes": 63511038,
+      "sha256": "6fc918b5a0ea6137382833dddfa567bffbe6a5060c02043c87192ee59c04210c",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/it_IT-paola-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/it/it_IT/paola/medium/it_IT-paola-medium.onnx"
+      ],
+      "config": "it-it-paola-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/it/it_IT/paola/medium/it_IT-paola-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/it_IT-paola-medium.MODEL_CARD",
+      "espeak": "it"
+    },
+    "ka-ge-natia-medium": {
+      "label": "natia",
+      "language": "ka",
+      "locale": "ka-GE",
+      "languageLabel": "ქართული ენა",
+      "bytes": 63201294,
+      "sha256": "04bdacf188fa24499885f9109b395fe8561a05ec2cd90d55453ec5beed7af460",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ka_GE-natia-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ka/ka_GE/natia/medium/ka_GE-natia-medium.onnx"
+      ],
+      "config": "ka-ge-natia-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ka/ka_GE/natia/medium/ka_GE-natia-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ka_GE-natia-medium.MODEL_CARD",
+      "espeak": "ka"
+    },
+    "kk-kz-iseke-x-low": {
+      "label": "iseke",
+      "language": "kk",
+      "locale": "kk-KZ",
+      "languageLabel": "қазақша",
+      "bytes": 28130791,
+      "sha256": "dcf526e1c089823c9f896f8f7fddd9b05d538752e139c8a2b4cf4fba41c9715c",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/kk_KZ-iseke-x_low.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/kk/kk_KZ/iseke/x_low/kk_KZ-iseke-x_low.onnx"
+      ],
+      "config": "kk-kz-iseke-x-low.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/kk/kk_KZ/iseke/x_low/kk_KZ-iseke-x_low.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/kk_KZ-iseke-x_low.MODEL_CARD",
+      "espeak": "kk"
+    },
+    "ko-kr-kss-medium": {
+      "label": "kss",
+      "language": "ko",
+      "locale": "ko-KR",
+      "languageLabel": "한국어",
+      "bytes": 63221984,
+      "sha256": "624fd774e26895f24bebae1bd9a3379e3394baeade4b584924f83e414096e2c9",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ko_KR-kss-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ko/ko_KR/kss/medium/ko_KR-kss-medium.onnx"
+      ],
+      "config": "ko-kr-kss-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ko/ko_KR/kss/medium/ko_KR-kss-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ko_KR-kss-medium.MODEL_CARD",
+      "espeak": "ko"
+    },
+    "ku-tr-berfin-renas-medium": {
+      "label": "berfin renas",
+      "language": "ku",
+      "locale": "ku-TR",
+      "languageLabel": "Kurmancî",
+      "bytes": 77060307,
+      "sha256": "bc0b2cf086f9a33ca1d7ca2ca80b6f35f8917d0c89afe4a645c5b9d56ac355c4",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ku_TR-berfin_renas-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ku/ku_TR/berfin_renas/medium/ku_TR-berfin_renas-medium.onnx"
+      ],
+      "config": "ku-tr-berfin-renas-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ku/ku_TR/berfin_renas/medium/ku_TR-berfin_renas-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ku_TR-berfin_renas-medium.MODEL_CARD",
+      "espeak": "ku"
+    },
+    "lb-lu-marylux-medium": {
+      "label": "marylux",
+      "language": "lb",
+      "locale": "lb-LU",
+      "languageLabel": "Lëtzebuergesch",
+      "bytes": 63201294,
+      "sha256": "4147ecacdd98932951d0f956555542de358d3ccff708d4996e305c3ce287097a",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/lb_LU-marylux-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/lb/lb_LU/marylux/medium/lb_LU-marylux-medium.onnx"
+      ],
+      "config": "lb-lu-marylux-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/lb/lb_LU/marylux/medium/lb_LU-marylux-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/lb_LU-marylux-medium.MODEL_CARD",
+      "espeak": "lb"
+    },
+    "lv-lv-aivars-medium": {
+      "label": "aivars",
+      "language": "lv",
+      "locale": "lv-LV",
+      "languageLabel": "Latviešu",
+      "bytes": 63511038,
+      "sha256": "9d855a47c22e2b94795be9e0eb9e8c4c02ce251dc89461dede94de20ff08bd8e",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/lv_LV-aivars-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/lv/lv_LV/aivars/medium/lv_LV-aivars-medium.onnx"
+      ],
+      "config": "lv-lv-aivars-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/lv/lv_LV/aivars/medium/lv_LV-aivars-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/lv_LV-aivars-medium.MODEL_CARD",
+      "espeak": "lv"
+    },
+    "ml-in-arjun-medium": {
+      "label": "arjun",
+      "language": "ml",
+      "locale": "ml-IN",
+      "languageLabel": "മലയാളം",
+      "bytes": 62950044,
+      "sha256": "e881130516a874306972a07dcf262e6900140430c5658131121744a80ef3f11b",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ml_IN-arjun-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ml/ml_IN/arjun/medium/ml_IN-arjun-medium.onnx"
+      ],
+      "config": "ml-in-arjun-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ml/ml_IN/arjun/medium/ml_IN-arjun-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ml_IN-arjun-medium.MODEL_CARD",
+      "espeak": "ml"
+    },
+    "mr-in-google-medium": {
+      "label": "google",
+      "language": "mr",
+      "locale": "mr-IN",
+      "languageLabel": "मराठी, 𑘦𑘨𑘰𑘙𑘲",
+      "bytes": 76768179,
+      "sha256": "e1200d474a74ebd6d1737be2c7affe56f1f9efc18915d4595d7f5c2b15cf06f4",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/mr_IN-google-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/mr/mr_IN/google/medium/mr_IN-google-medium.onnx"
+      ],
+      "config": "mr-in-google-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/mr/mr_IN/google/medium/mr_IN-google-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/mr_IN-google-medium.MODEL_CARD",
+      "espeak": "mr"
+    },
+    "ne-np-chitwan-medium": {
+      "label": "chitwan",
+      "language": "ne",
+      "locale": "ne-NP",
+      "languageLabel": "नेपाली",
+      "bytes": 62950044,
+      "sha256": "f7ba6b0927688f92717e93ca52bc06f5783ce8edc765d5f85365acef1d41822c",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ne_NP-chitwan-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ne/ne_NP/chitwan/medium/ne_NP-chitwan-medium.onnx"
+      ],
+      "config": "ne-np-chitwan-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ne/ne_NP/chitwan/medium/ne_NP-chitwan-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ne_NP-chitwan-medium.MODEL_CARD",
+      "espeak": "ne"
+    },
+    "nl-nl-ronnie-medium": {
+      "label": "ronnie",
+      "language": "nl",
+      "locale": "nl-NL",
+      "languageLabel": "Nederlands",
+      "bytes": 62950044,
+      "sha256": "ac9aba346d2088ed1ddea646a843ef97dc8e1514cc75e969c90a0c843bb5cbf5",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/nl_NL-ronnie-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/nl/nl_NL/ronnie/medium/nl_NL-ronnie-medium.onnx"
+      ],
+      "config": "nl-nl-ronnie-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/nl/nl_NL/ronnie/medium/nl_NL-ronnie-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/nl_NL-ronnie-medium.MODEL_CARD",
+      "espeak": "nl"
+    },
+    "no-no-talesyntese-medium": {
+      "label": "talesyntese",
+      "language": "no",
+      "locale": "no-NO",
+      "languageLabel": "Norsk",
+      "bytes": 63201294,
+      "sha256": "b763aebe02e72c4628c4074c4b8b448f05ffe523b975bfcd58e2c5d531270c13",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/no_NO-talesyntese-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/no/no_NO/talesyntese/medium/no_NO-talesyntese-medium.onnx"
+      ],
+      "config": "no-no-talesyntese-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/no/no_NO/talesyntese/medium/no_NO-talesyntese-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/no_NO-talesyntese-medium.MODEL_CARD",
+      "espeak": "nb"
+    },
+    "pl-pl-darkman-medium": {
+      "label": "darkman",
+      "language": "pl",
+      "locale": "pl-PL",
+      "languageLabel": "Polski",
+      "bytes": 63201294,
+      "sha256": "db505438a5364e8e2e0242c4324130a873ed660dfbe8d9689cef428ffb1b645f",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/pl_PL-darkman-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/pl/pl_PL/darkman/medium/pl_PL-darkman-medium.onnx"
+      ],
+      "config": "pl-pl-darkman-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/pl/pl_PL/darkman/medium/pl_PL-darkman-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/pl_PL-darkman-medium.MODEL_CARD",
+      "espeak": "pl"
+    },
+    "pt-br-faber-medium": {
+      "label": "faber",
+      "language": "pt",
+      "locale": "pt-BR",
+      "languageLabel": "Português",
+      "bytes": 63201294,
+      "sha256": "858555e3a064209c57088fe6bd70c4c3dc54d03eaa00c45d5ecaf43a33f95aa7",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/pt_BR-faber-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/pt/pt_BR/faber/medium/pt_BR-faber-medium.onnx"
+      ],
+      "config": "pt-br-faber-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/pt/pt_BR/faber/medium/pt_BR-faber-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/pt_BR-faber-medium.MODEL_CARD",
+      "espeak": "pt-br"
+    },
+    "ro-ro-mihai-medium": {
+      "label": "mihai",
+      "language": "ro",
+      "locale": "ro-RO",
+      "languageLabel": "Română",
+      "bytes": 63201294,
+      "sha256": "e0608bbbd53c80267c09ece681b09f5199f54e792356684c8073738e5f15d29f",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ro_RO-mihai-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ro/ro_RO/mihai/medium/ro_RO-mihai-medium.onnx"
+      ],
+      "config": "ro-ro-mihai-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ro/ro_RO/mihai/medium/ro_RO-mihai-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ro_RO-mihai-medium.MODEL_CARD",
+      "espeak": "ro"
+    },
+    "ru-ru-irina-medium": {
+      "label": "irina",
+      "language": "ru",
+      "locale": "ru-RU",
+      "languageLabel": "Русский",
+      "bytes": 63201294,
+      "sha256": "8ff38212d23da300bbe3705c645e6e5b9475f0bfde01558eb17813e22acaaaaa",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ru_RU-irina-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ru/ru_RU/irina/medium/ru_RU-irina-medium.onnx"
+      ],
+      "config": "ru-ru-irina-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ru/ru_RU/irina/medium/ru_RU-irina-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ru_RU-irina-medium.MODEL_CARD",
+      "espeak": "ru"
+    },
+    "sk-sk-lili-medium": {
+      "label": "lili",
+      "language": "sk",
+      "locale": "sk-SK",
+      "languageLabel": "Slovenčina",
+      "bytes": 63201294,
+      "sha256": "d8e21603e0165252849efe0bcb3fbffd1b3193c36bd1f556e1106911e8015526",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sk_SK-lili-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sk/sk_SK/lili/medium/sk_SK-lili-medium.onnx"
+      ],
+      "config": "sk-sk-lili-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sk/sk_SK/lili/medium/sk_SK-lili-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sk_SK-lili-medium.MODEL_CARD",
+      "espeak": "sk"
+    },
+    "sl-si-artur-medium": {
+      "label": "artur",
+      "language": "sl",
+      "locale": "sl-SI",
+      "languageLabel": "Slovenščina",
+      "bytes": 63200492,
+      "sha256": "9222ed93ef425524ad4be0b083369af8ea8db18455576a6016b154192f4ed38c",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sl_SI-artur-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sl/sl_SI/artur/medium/sl_SI-artur-medium.onnx"
+      ],
+      "config": "sl-si-artur-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sl/sl_SI/artur/medium/sl_SI-artur-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sl_SI-artur-medium.MODEL_CARD",
+      "espeak": "sl"
+    },
+    "sq-al-edon-medium": {
+      "label": "edon",
+      "language": "sq",
+      "locale": "sq-AL",
+      "languageLabel": "shqip",
+      "bytes": 63511038,
+      "sha256": "5d0ae8af36a00ac6813517b2af47bc4cda42e88ece04f6076ae3b0f5479c57c8",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sq_AL-edon-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sq/sq_AL/edon/medium/sq_AL-edon-medium.onnx"
+      ],
+      "config": "sq-al-edon-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sq/sq_AL/edon/medium/sq_AL-edon-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sq_AL-edon-medium.MODEL_CARD",
+      "espeak": "sq"
+    },
+    "sr-rs-serbski-institut-medium": {
+      "label": "serbski institut",
+      "language": "sr",
+      "locale": "sr-RS",
+      "languageLabel": "srpski",
+      "bytes": 76733615,
+      "sha256": "d7003890cf596e653f660a4fd97fd17f57f1eceb6d9727abad9cd76d2fda0d80",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sr_RS-serbski_institut-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sr/sr_RS/serbski_institut/medium/sr_RS-serbski_institut-medium.onnx"
+      ],
+      "config": "sr-rs-serbski-institut-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sr/sr_RS/serbski_institut/medium/sr_RS-serbski_institut-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sr_RS-serbski_institut-medium.MODEL_CARD",
+      "espeak": "sr"
+    },
+    "sv-se-alma-medium": {
+      "label": "alma",
+      "language": "sv",
+      "locale": "sv-SE",
+      "languageLabel": "Svenska",
+      "bytes": 63434611,
+      "sha256": "f75455eb6afeb1db9e2905d5bd7e4115afcd3710e0d399b6a40981766d32fedc",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sv_SE-alma-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sv/sv_SE/alma/medium/sv_SE-alma-medium.onnx"
+      ],
+      "config": "sv-se-alma-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sv/sv_SE/alma/medium/sv_SE-alma-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sv_SE-alma-medium.MODEL_CARD",
+      "espeak": "sv"
+    },
+    "sw-cd-lanfrica-medium": {
+      "label": "lanfrica",
+      "language": "sw",
+      "locale": "sw-CD",
+      "languageLabel": "Kiswahili",
+      "bytes": 63201294,
+      "sha256": "1f195ed12ca5e7875114618e5f00207af364602e21ca78c8a6d3d7674f9259fa",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sw_CD-lanfrica-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sw/sw_CD/lanfrica/medium/sw_CD-lanfrica-medium.onnx"
+      ],
+      "config": "sw-cd-lanfrica-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sw/sw_CD/lanfrica/medium/sw_CD-lanfrica-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/sw_CD-lanfrica-medium.MODEL_CARD",
+      "espeak": "sw"
+    },
+    "te-in-maya-medium": {
+      "label": "maya",
+      "language": "te",
+      "locale": "te-IN",
+      "languageLabel": "తెలుగు",
+      "bytes": 62950044,
+      "sha256": "c3518ad4e3ca8ea6059c1e002f3772068f634960f58b237a96ff629db1c6200e",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/te_IN-maya-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/te/te_IN/maya/medium/te_IN-maya-medium.onnx"
+      ],
+      "config": "te-in-maya-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/te/te_IN/maya/medium/te_IN-maya-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/te_IN-maya-medium.MODEL_CARD",
+      "espeak": "te"
+    },
+    "tr-tr-dfki-medium": {
+      "label": "dfki",
+      "language": "tr",
+      "locale": "tr-TR",
+      "languageLabel": "Türkçe",
+      "bytes": 63201294,
+      "sha256": "2844717f524ab965d3fe86e60562cbb601d3e456836efcc2196cc3a14112a8fb",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/tr_TR-dfki-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/tr/tr_TR/dfki/medium/tr_TR-dfki-medium.onnx"
+      ],
+      "config": "tr-tr-dfki-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/tr/tr_TR/dfki/medium/tr_TR-dfki-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/tr_TR-dfki-medium.MODEL_CARD",
+      "espeak": "tr"
+    },
+    "uk-ua-lada-x-low": {
+      "label": "lada",
+      "language": "uk",
+      "locale": "uk-UA",
+      "languageLabel": "украї́нська мо́ва",
+      "bytes": 20628813,
+      "sha256": "f8d015d3fc19ea6bd8ac3ca1fd0c0fbac5054c609599ee73799235fd2cf5c786",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/uk_UA-lada-x_low.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/uk/uk_UA/lada/x_low/uk_UA-lada-x_low.onnx"
+      ],
+      "config": "uk-ua-lada-x-low.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/uk/uk_UA/lada/x_low/uk_UA-lada-x_low.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/uk_UA-lada-x_low.MODEL_CARD",
+      "espeak": "uk",
+      "ignoreUnmappedMarks": true
+    },
+    "ur-pk-aegis-female-medium": {
+      "label": "aegis female",
+      "language": "ur",
+      "locale": "ur-PK",
+      "languageLabel": "اردو",
+      "bytes": 63515589,
+      "sha256": "3ec306035cfd0bbc22342fee5890450708a16dd231809522731678aa583c961f",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ur_PK-aegis_female-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ur/ur_PK/aegis_female/medium/ur_PK-aegis_female-medium.onnx"
+      ],
+      "config": "ur-pk-aegis-female-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ur/ur_PK/aegis_female/medium/ur_PK-aegis_female-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/ur_PK-aegis_female-medium.MODEL_CARD",
+      "espeak": "ur"
+    },
+    "vi-vn-vais1000-medium": {
+      "label": "vais1000",
+      "language": "vi",
+      "locale": "vi-VN",
+      "languageLabel": "Tiếng Việt",
+      "bytes": 63201294,
+      "sha256": "ec7c89e2c85f4d1edc24b6120c18aaf1bda614f06b511567eb9c7c0de15e2dab",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/vi_VN-vais1000-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/vi/vi_VN/vais1000/medium/vi_VN-vais1000-medium.onnx"
+      ],
+      "config": "vi-vn-vais1000-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/vi/vi_VN/vais1000/medium/vi_VN-vais1000-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/vi_VN-vais1000-medium.MODEL_CARD",
+      "espeak": "vi"
+    },
+    "zh-cn-huayan-medium": {
+      "label": "huayan",
+      "language": "zh",
+      "locale": "zh-CN",
+      "languageLabel": "简体中文",
+      "bytes": 63201294,
+      "sha256": "9929917bf8cabb26fd528ea44d3a6699c11e87317a14765312420be230be0f3d",
+      "model": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/zh_CN-huayan-medium.onnx",
+      "modelFallbacks": [
+        "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/zh/zh_CN/huayan/medium/zh_CN-huayan-medium.onnx"
+      ],
+      "config": "zh-cn-huayan-medium.json",
+      "sourceConfig": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/zh/zh_CN/huayan/medium/zh_CN-huayan-medium.onnx.json",
+      "modelCard": "https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/download/v3/zh_CN-huayan-medium.MODEL_CARD",
+      "espeak": "cmn"
+    }
+  }
+}

@@ -2,6 +2,16 @@
 
 This repository serves optional Piper ONNX voice weights through immutable GitHub Release assets. The browser extension source and bundled runtime live in a separate repository. Large ONNX files are release attachments, not Git history.
 
+## Multilingual catalog
+
+[voices-v3.json](voices-v3.json) lists 49 languages, 51 production voices, immutable upstream sources, file sizes and SHA-256 digests. [Release v3](https://github.com/Masih-Roughani/Piper-TTS-voice-assets/releases/tag/v3) carries the new weights, original configurations and attribution cards; existing weights remain in v1/v2.
+
+Mana (Persian) and Ryan High (English) ship inside the extension. Every other voice downloads only when selected for reading or preview, then stays cached locally. The source repository never serves optional models. The interface can use any of the same 49 languages.
+
+Japanese, Hebrew, Lithuanian and Thai require dedicated phonemizers and are excluded from this eSpeak build. The 46 new optional languages passed actual eSpeak WASM + ONNX Runtime Web WASM synthesis. Audio quality has not been subjectively certified across all languages.
+
+The **Publish verified voices** workflow downloads pinned official weights, verifies their hashes, uploads configs/cards and checks every release asset before publishing. A failed run keeps v3 as a draft. Published assets cannot be changed by rerunning the script. This maintainer tooling is independent of the extension runtime.
+
 ## v1 assets
 
 | File | Bytes | SHA-256 | Upstream |
@@ -15,4 +25,4 @@ The extension verifies size and SHA-256 before caching and using a downloaded mo
 
 Gooya's repository declares MIT. Ryan High's [model card](https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_US/ryan/high/MODEL_CARD) identifies its training dataset as **CC BY-NC-SA 4.0**. This repository preserves that attribution and does not assert broader rights to either voice. Check the source terms before commercial distribution.
 
-The Mana and Ganji weights ship with the development extension build and are not hosted here. Lessac High is excluded from this release because its [model card](https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_US/lessac/high/MODEL_CARD) points to separate Blizzard 2013 dataset terms.
+Mana and Ganji are hosted in v3; only Mana is bundled in the current extension. Lessac High is excluded from the production catalog. Each other voice retains the terms in its original MODEL_CARD attachment. Hosting a model here does not relicense it or its training dataset.

@@ -1,0 +1,24 @@
+name: Publish verified voices
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: voice-assets-v3
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Fetch publication tools from this exact commit
+        shell: bash
+        run: |
+          for file in publish.py voices-v3.json RELEASE_NOTES.md; do
+            curl --fail --location --silent --show-error --retry 4 "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${GITHUB_SHA}/${file}" --output "${file}"
+          done
+      - name: Download, verify, upload and publish
+        run: python3 publish.py
